@@ -7,7 +7,9 @@ public class Human {
 	int heightininches;
 	String eyeColour;
 public Human() {//constructor method//name should be same as the class name
-	
+	age=13;
+	name="tom";
+	heightininches=56;
 }
 
 public void speak() {
