@@ -1,6 +1,6 @@
 package oop;
 
-public class Human {
+public class Human {//This is the Human Class
 		
 	String name;
 	int age;
